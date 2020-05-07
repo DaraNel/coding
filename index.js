@@ -1,10 +1,10 @@
 
 var ques_array = [
-	"Invoice",
-	"Prime cost",
-	"D23,000",
-	"Deficit",
-	"Materiality"
+	"Seyi Onifade",
+	"Jeffrey Ogah",
+	"All of the Above",
+	"5",
+	"I Can't Come and Kill Myself"
 ];
 
 var ques_answered = [
