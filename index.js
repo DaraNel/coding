@@ -147,6 +147,6 @@ function start()	{
 	window.location.href = "quiz.html";
 }
 
-// function home()	{
-	// window.location.href = "home.html";
-// }
+function home()	{
+	window.location.href = "index.html";
+}
